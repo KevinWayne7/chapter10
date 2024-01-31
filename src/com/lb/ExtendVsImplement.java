@@ -2,7 +2,7 @@ package com.lb;
 
 public class ExtendVsImplement {
     public static void main(String[] args) {
-        LittleMonkey littleMonkey = new LittleMonkey("悟空");
+        LittleMonkey littleMonkey = new LittleMonkey("凯文杜兰特");
         littleMonkey.climb();
         littleMonkey.flying();
         littleMonkey.swimming();
